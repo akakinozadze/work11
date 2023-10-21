@@ -109,13 +109,16 @@
     background-repeat: no-repeat;
     background-size: cover;
     margin-top: 36px;
+    display: flex;
+    margin: auto;
+    margin-top: 36px;
 }
 
 .box-main-left {
     max-width: 828px;
     height: 458px;
     background-color: #37393FE8;
-    padding-top: 142px;
+    /* padding-top: 142px; */
 }
 
 .header-pharagrap-2 {
