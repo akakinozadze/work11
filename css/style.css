@@ -64,8 +64,9 @@
 }
 
 .navigation:hover {
-    color: rgb(255, 127, 148);
     transform: scale(1.1);
+    color: rgb(255, 127, 148);
+   
     /* ratom ar mushaobs scale ? */
 
 }
@@ -429,6 +430,9 @@
 .bottom-div-from:hover {
     transform: scale(1.1);
     color: rgb(255, 127, 148);
+   /* arc aq ,ushaobs mausis mitanisas ar icvlis pers */
+    
+
 }
 
 .bottom-pharagrap-from {
