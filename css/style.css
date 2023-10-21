@@ -19,7 +19,7 @@
 }
 
 .image {
-    /* object-fit: cover; */
+    object-fit: cover;
     width: 100%;
 
 }
@@ -153,9 +153,14 @@
     display: flex;
     justify-content: space-between;
 }
-
+.image {
+    max-width: 585px;
+    height: 454px;
+    width: 100%;
+}
 .image-1 {
     object-fit: cover;
+    width: 100%;
 }
 
 .left-box {
@@ -446,3 +451,4 @@
 
 
 }
+/* footer style */
