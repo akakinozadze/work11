@@ -58,10 +58,22 @@
     font-family: 'Inter Tight';
     width: 100%;
 }
+
+.navigation:hover {
+    color: rgb(255, 127, 148);
+    transform: scale(1.1);
+    /* ratom ar mushaobs scale ? */
+    
+}
 .get-consulting {
     background-color: #6B77E5;
     max-width: 184px;
     text-align: center;
+    border-radius: 18px;
+}
+.get-consulting:hover {
+    background-color: rgb(255, 127, 148);
+    transform: scale(1.1);
 }
 .paragrap-header {
     font-weight: 600;
@@ -72,7 +84,6 @@
     font-family: 'Cabin Condensed';
    
 }
-/* main style */
 .main {
     width: 100%;
 }
@@ -86,6 +97,80 @@
 }
 .box-main-left {
     max-width: 828px;
+    height: 458px; 
+    background-color: #37393FE8;
+    padding-top: 142px;
+}
+.header-pharagrap-2 {
+    height: 102px;
+    max-width: 565px;
+    margin: auto;
+   
+
+}
+.header-pharagrap-1 {
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26.31px;
+    color:#FFFFFF ;
+    font-family: 'Inter Tight';
+}
+.header-h5 {
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 66px;
+    color:#FFFFFF;
+}
+/* main section style */
+.section-mother-box {
+    max-width: 1220px;
+    height: 1207px;
+    background-color: #6B77E5;
+    margin: auto;
+    margin-top: 180px;
+}
+.box-top-mother {
+    display: flex;
+    justify-content: space-between;
+}
+.image-1 {
+    object-fit: cover;
+}
+.left-box {
+    max-width: 585px;
     height: 458px;
-    background-color:#37393F;
+    background-color: #e66e0b;
+    width: 100%;
+}
+/* bottom box style */
+.box-bottom-mother {
+    background-color: #e66e0b;
+    max-width: 1220px;
+    height: 649px;
+    margin-top: 100px;
+
+}
+
+.main-pharagrap {
+    margin: auto;
+    background-color: aqua;
+    max-width: 431px;
+    height: 86px;
+}
+.main-pharagrap {
+    font-weight: 500;
+    font-size: 18px;
+    line-height:21.78px;
+    color:  #37393F;
+    text-align: center;
+    font-family: 'Inter Tight';
+
+}
+.main-h5 {
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 48.4px;
+    margin-top: 15px;
+    color:#37393F;
+    font-family: 'Poppins';
 }
