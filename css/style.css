@@ -66,7 +66,7 @@
 .navigation:hover {
     transform: scale(1.1);
     color: rgb(255, 127, 148);
-   
+
     /* ratom ar mushaobs scale ? */
 
 }
@@ -118,7 +118,7 @@
     max-width: 828px;
     height: 458px;
     background-color: #37393FE8;
-   
+
 }
 
 .header-pharagrap-2 {
@@ -156,11 +156,13 @@
     display: flex;
     justify-content: space-between;
 }
+
 .image-3 {
     max-width: 585px;
     height: 454px;
     width: 100%;
 }
+
 .image-1 {
     object-fit: cover;
     width: 100%;
@@ -295,7 +297,6 @@
 .bottom-Location {
     display: flex;
     justify-content: space-between;
-
     max-width: 367px;
 }
 
@@ -312,7 +313,6 @@
 .bottom-box-4 {
     max-width: 280px;
     height: 48px;
-
     width: 100%;
     margin-top: 10px;
 }
@@ -333,7 +333,6 @@
 
 .mother-bottom-100 {
     margin-top: 33px;
-
 }
 
 /* bottom box style */
@@ -431,16 +430,12 @@
     border-radius: 10px;
     margin: auto;
     margin-top: 50px;
-
-
 }
 
 .bottom-div-from:hover {
     transform: scale(1.1);
     color: rgb(255, 127, 148);
-   /* arc aq ,ushaobs mausis mitanisas ar icvlis pers */
-    
-
+    /* arc aq ,ushaobs mausis mitanisas ar icvlis pers */
 }
 
 .bottom-pharagrap-from {
@@ -451,7 +446,4 @@
     text-align: center;
     padding-top: 21px;
     color: #FFFFFF;
-
-
 }
-
