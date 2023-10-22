@@ -118,7 +118,7 @@
     max-width: 828px;
     height: 458px;
     background-color: #37393FE8;
-    /* padding-top: 142px; */
+   
 }
 
 .header-pharagrap-2 {
@@ -156,7 +156,7 @@
     display: flex;
     justify-content: space-between;
 }
-.image {
+.image-3 {
     max-width: 585px;
     height: 454px;
     width: 100%;
@@ -454,4 +454,4 @@
 
 
 }
-/* footer style */
+
